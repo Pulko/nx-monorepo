@@ -1,0 +1,11 @@
+.page {
+  text-align: center;
+}
+
+.input {
+  border: 1px solid black;
+}
+
+.list {
+  list-style: none;
+}
